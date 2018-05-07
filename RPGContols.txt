@@ -1,0 +1,3 @@
+WASD - to move
+
+everything else is UI button based controls
